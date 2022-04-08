@@ -1,1 +1,1 @@
-# Welcome to ambience.css
+# Welcome to Ambience Studios
